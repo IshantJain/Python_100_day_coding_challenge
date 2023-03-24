@@ -21,7 +21,7 @@ else:
 
 
 #tuple slicing: for this we have to create a new tuple and store and print that new tuple.
-tup2 = tup[1:3 ]#staring from 1 till 3rd index it will stroe in the new tuple.
+tup2 = tup[1:3]#staring from 1 till 3rd index it will stroe in the new tuple.
 
 
 
